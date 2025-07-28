@@ -14,8 +14,6 @@ A beginner-friendly JavaScript project that dynamically changes the background c
 
 ![Color Flipper Screenshot](./screenshot.png)
 
-> Replace `screenshot.png` with your actual image file name if different.
-
 ## 🎯 Purpose
 
 This project is perfect for beginners who want to practice:
