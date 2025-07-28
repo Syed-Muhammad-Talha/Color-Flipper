@@ -38,6 +38,7 @@ This project is perfect for beginners who want to practice:
 ## 📂 Folder Structure
 
 color-flipper/
+
 ├── index.html
 
 ├── style.css
